@@ -1,4 +1,4 @@
-# Ekstraksi-Fitur-Bentuk-Daun-tanaman-obat
+# Ekstraksi-Fitur-Bentuk-Daun
 
 Repositori ini berisi kode Python untuk melakukan **ekstraksi fitur warna, tekstur, dan bentuk** dari citra daun obat menggunakan OpenCV dan `scikit-image`. Ekstraksi dilakukan dari dataset gambar daun yang disimpan di Google Drive dan hasilnya disimpan dalam file CSV.
 
