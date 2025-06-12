@@ -55,14 +55,6 @@ Kode ini juga menyertakan visualisasi yang dijadikan sebagai output:
 * Citra grayscale untuk GLCM
 * Thresholding dan labeling bentuk objek
 
-
-##  Author
-
-* Nama: *\[Isikan nama kamu]*
-* Project oleh: *\[Tulis institusi/kegiatan jika terkait, misalnya tugas Computer Vision]*
-
-Berikut adalah struktur direktori minimal dan file `requirements.txt` yang kamu butuhkan agar proyek ini rapi dan siap diunggah ke GitHub:
-
 ---
 
 ##  Struktur Direktori
@@ -90,5 +82,5 @@ numpy
 
 ---
 
-##  dataset
+##  Contoh dataset Daun
 https://www.kaggle.com/datasets/riteshranjansaroj/segmented-medicinal-leaf-images
