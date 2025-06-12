@@ -39,14 +39,6 @@ Pastikan Anda menginstal pustaka berikut:
 pip install opencv-python-headless scikit-image pandas matplotlib
 ```
 
-##  Struktur Dataset
-
-Dataset harus berada di Google Drive, misalnya:
-
-```
-/MyDrive/Colab Notebooks/Dataset Daun/train/
-```
-
 Setiap file gambar di folder ini akan diproses secara otomatis.
 
 ##  Cara Menjalankan
