@@ -52,14 +52,8 @@ Setiap file gambar di folder ini akan diproses secara otomatis.
 ##  Cara Menjalankan
 
 1. Jalankan kode ini di Google Colab.
-2. Pastikan sudah me-*mount* Google Drive:
-
-   ```python
-   from google.colab import drive
-   drive.mount('/content/drive')
-   ```
-3. Ubah path dataset jika perlu.
-4. Jalankan seluruh sel.
+2. Upload gambar daun yang ingin di ekstraksi.
+3. Jalankan seluruh sel.
 
 ##  Visualisasi sekaligus output
 
